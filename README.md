@@ -1,4 +1,4 @@
-![cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![cat typing](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 <!--
 **Bilguun7we/bilguun7we** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
