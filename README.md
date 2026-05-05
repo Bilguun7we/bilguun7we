@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hello+I+am+Shisui;Welcome+to+my+GitHub;I+love+coding🔥)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hello+I+am+bilguun;Welcome+to+my+GitHub;I+love+coding🔥)
 
 <!--
 **Bilguun7we/bilguun7we** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
