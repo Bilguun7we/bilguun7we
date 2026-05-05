@@ -1,4 +1,4 @@
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 <!--
 **Bilguun7we/bilguun7we** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
